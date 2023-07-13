@@ -1,0 +1,744 @@
+,Names,Loction,No of Courses,Entrance Exam,Ratings,fee,No of Seats
+0,"S.B Patil Institute of Management, Pimpri Chinchwad Educations Trust's", Pune,1, CAT ,4.0,229999,180
+1,Techno Main Salt Lake, Kolkata,1, MAT ,3.0,517000,120
+2,National Institute of Bank Management (NIBM), Pune,1, CAT ,4.5,840000,120
+3,MITCON Institute of Management, Pune,3, CAT ,3.6,560000,240
+4,"G.H. Patel Postgraduate Institute of Business Management, Sardar Patel University",Gujarat - Other,1, CAT ,4.0,24000,80
+5,Indian Academy School of Management Studies, Bangalore,1, CAT ,4.4,459999,120
+6,GNIOT Group of Institutions,Greater Noida,5, CAT ,3.9,172000,222
+7,Bharatiya Vidya Bhavan Institute of Management Science - BIMSKOL, Kolkata,1, CAT ,3.8,495000,120
+8,PES College of Engineering,Karnataka - Other,1, Karnataka PGCET ,4.0,117000,60
+9,"Don Bosco Institute Of Technology, Bangalore", Bangalore,1, Karnataka PGCET ,3.0,117000,60
+10,SSIM - Siva Sivani Institute of Management, Hyderabad,4, CAT ,4.0,660000,420
+11,IAMR - Institute of Advanced Management and Research,Ghaziabad,2, CAT ,4.5,119000,300
+12,Francis Xavier Engineering College,Tirunelveli,1, TANCET MBA ,1.9,35000,60
+13,Jaipur National University,Jaipur,4, CAT ,3.8,270000,60
+14,Nehru Institute of Information Technology and Management,Coimbatore,1, TANCET ,4.0,240000,60
+15,Amrapali Group of Institutes,Haldwani,1, CAT ,4.1,277000,60
+16,JECRC University,Jaipur,20, CAT ,2.7,125000,210
+17,Chetana's Institute of Management and Research, Mumbai,3, CAT ,3.9,715000,270
+18,JIMS - Jagan Institute of Management Studies,Jaipur,1, CAT ,3.9,645000,90
+19,T. John Group of Institutions, Bangalore,2, Karnataka PGCET ,4.0,492000,180
+20,"SAGE University, Indore",Indore,13, SEE ,4.2,120000,780
+21,I Business Institute,Greater Noida,1, CAT ,4.7,720000,180
+22,"All India Shri Shivaji Memorial Society's, Institute of Management", Pune,1, CAT ,3.8,229999,180
+23,Indirapuram Institute of Higher Studies (IIHS Ghaziabad),Ghaziabad,1, CAT ,3.7,434000,90
+24,Disha Institute of Management and Technology,Raipur,1, CAT ,4.3,214000,270
+25,Poddar Group of Institutions,Jaipur,1, CAT ,4.4,400000,108
+26,"Sambhram Academy of Management Studies (SAMS, Bangalore)", Bangalore,1, Karnataka PGCET ,3.7,117000,180
+27,Netaji Subhas University,Jamshedpur,1, CAT ,4.0,270000,120
+28,GNVS Institute of Management, Mumbai,1, CAT ,4.4,355000,120
+29,Institute of Information Technology & Management, Delhi,1, CAT ,3.1,288000,60
+30,MGM Institute of Management and Research,Aurangabad,1, CAT ,3.9,267000,180
+31,Hindusthan Institute of Technology,Coimbatore,1, TANCET MBA ,3.4,35000,60
+32,S.V. Institute of Management,Mehsana,3, CAT ,4.3,194000,180
+33,People's Institute of Management and Research,Bhopal,5, CAT ,3.5,140000,150
+34,ITM Group of Institutions,Kannur,1, CAT ,2.3,217000,90
+35,Swayam Siddhi College of Management and Research (SSCMR), Thane,1, CAT ,5.0,220000,120
+36,Kanpur Institute of Technology,Kanpur,1, NTA ,4.7,119000,120
+37,Shri Jairambhai Patel Institute of Business Management and Computer Applications,Gandhinagar,1, CAT ,4.5,196000,120
+38,ASM's Institute of Business Management and Research, Pune,5, CAT ,4.3,480000,720
+39,Administrative Staff College of India, Hyderabad,2, CAT ,4.7,600000,120
+40,SJB Institute of Technology, Bangalore,1, Karnataka PGCET ,4.0,117000,120
+41,SRBS - Sheila Raheja School of Business Management & Research, Mumbai,1, CAT ,4.1,296000,120
+42,GNIOT - Greater Noida Institute of Technology,Greater Noida,4, UPCET ,3.7,279000,348
+43,Banasthali Vidyapith,Jaipur,1, Banasthali University Aptitude Test ,4.3,278000,360
+44,Bengal Institute of Business Studies, Kolkata,6, CAT ,4.3,308000,850
+45,Lotus Business School, Pune,4, CAT ,3.0,208000,270
+46,The Oxford College of Engineering, Bangalore,1, Karnataka PGCET ,4.1,117000,120
+47,Shivajirao Kadam Institute of Technology & Management,Indore,2, CMAT ,3.7,144000,180
+48,Acropolis Faculty of Management and Research,Indore,1, CMAT ,4.8,130000,300
+49,BLDEA's A S Patil College of Commerce(Autonomous),Bijapur,1, Karnataka PGCET ,2.0,117000,120
+50,Sagar Institute of Research and Technology,Bhopal,1, CMAT ,3.2,65000,180
+51,SIMCA - Sinhgad Institute of Management and Computer Application, Pune,1, CAT ,3.3,256000,240
+52,Royal Global University,Guwahati,5, CAT ,4.8,440000,60
+53,SIOM - Sinhgad Institute of Management, Pune,1, CAT ,3.6,276000,600
+54,"CMR Institute of Technology, Bangalore", Bangalore,1, CAT ,4.0,117000,120
+55,Maharishi Arvind School of Management Studies,Jaipur,1, CAT ,3.3,115999,120
+56,Acropolis Institute of Technology and Research,Indore,2, CMAT ,3.6,139000,120
+57,Deogiri Institute of Engineering and Management Studies,Aurangabad,1, CAT ,4.3,162000,180
+58,"GITAM School of Business, Hyderabad", Hyderabad,5, CAT ,3.5,900000,120
+59,Thakur Global Business School, Mumbai,1, CAT ,4.1,960000,120
+60,"Indira College of Engineering and Management, Indira Group of Institutes", Pune,2, CAT ,4.5,317000,60
+61,Datta Meghe Institute of Management Studies,Nagpur,1, CAT ,4.1,240000,180
+62,Jayawant Institute of Management Studies, Pune,1, CAT ,4.4,210000,120
+63,Astha School of Management,Bhubaneswar,1, CAT ,3.5,200000,180
+64,LBSIM - Lal Bahadur Shastri Institute of Management and Technology,Bareilly,1, CAT ,4.5,294000,90
+65,SBS - Sinhgad Business School, Pune,1, CAT ,4.2,300000,300
+66,NITTE School of Management - NSOM, Bangalore,2, CAT ,4.0,575000,150
+67,IES College of Technology,Bhopal,1, CMAT ,2.0,110000,180
+68,Global Business School,Hubli,1, Karnataka PGCET ,3.5,117000,120
+69,Adichunchanagiri Institute of Technology,Chikkamagaluru,1, Karnataka PGCET ,5.0,117000,60
+70,Albertian Institute of Management,Kochi,1, CAT ,3.7,375000,60
+71,"Assam University, Silchar",Silchar,3, CAT ,3.4,20700,140
+72,G S College of Commerce and Economics,Nagpur,1, CAT ,4.0,180000,60
+73,The NorthCap University,Gurgaon,2, CAT ,4.0,710000,100
+74,Anurag University, Hyderabad,2, TSICET ,4.0,100000,240
+75,"ISB&M - International School of Business and Media, Kolkata", Kolkata,6, CAT ,4.3,860000,200
+76,S.A. Engineering College, Chennai,1, CAT ,3.6,35000,120
+77,T. John Institute of Management and Science, Bangalore,1, CAT ,3.9,608000,120
+78,"IBMR Business School, Hubli",Hubli,2, CAT ,3.5,400000,120
+79,K.L.E. Society's Institute of Management Studies and Research (KLESIMSR ),Hubli,1, Karnataka PGCET ,2.0,117000,120
+80,Seshadripuram Institute of Management Studies, Bangalore,1, Karnataka PGCET ,3.0,117000,120
+81,SEC - Saveetha Engineering College, Chennai,1, CAT ,4.0,70000,120
+82,Happy Valley Business School,Coimbatore,1, TANCET ,4.6,310000,120
+83,ASBM University,Bhubaneswar,10, CAT ,4.3,441000,120
+84,MKBU - Maharaja Krishnakumarsinhji Bhavnagar University,Bhavnagar,4, CAT ,2.5,84000,147
+85,Siddaganga Institute of Technology,Tumkur,1, Karnataka PGCET ,4.6,117000,120
+86,"Lakshmi Narain College of Technology, Indore",Indore,1, CAT ,2.5,110000,180
+87,Sagar Institute of Research and Technology- Excellence,Bhopal,1, CMAT ,3.5,109000,180
+88,Shri Vaishnav Institute of Management,Indore,4, CMAT ,4.1,120000,330
+89,SMJV's C K Shah Vijapurwala Institute of Management,Vadodara,2, CAT ,2.1,160000,120
+90,A.J. Institute of Management,Mangalore,1, Karnataka PGCET ,3.0,117000,180
+91,DIT University,Dehradun,2, CAT ,3.9,306000,60
+92,MMM's Institute of Management Education Research and Training, Pune,3, CAT ,3.8,224000,270
+93,Tapmi School of Business,Jaipur,1, CAT ,4.4,867000,60
+94,Kakatiya Institute of Technology and Science,Warangal,1, TSICET ,1.0,120000,60
+95,MKSS’s Smt. Hiraben Nanavati Institute of Management and Research for Women, Pune,1, CAT ,3.8,380000,180
+96,Indira Institute of Business Management, Mumbai,1, CAT ,4.0,240000,120
+97,MES Advanced Institute of Management and Technology,Kochi,1, CMAT ,3.0,180000,120
+98,BLDEA's A S Patil College of Commerce,Bijapur,2, CMAT ,3.7,20000,90
+99,Dr. N.G.P. Institute of Technology,Coimbatore,1, TANCET MBA ,3.8,35000,120
+100,Dr. Lankapalli Bullayya College,Visakhapatnam,1, APICET ,3.5,70000,120
+101,RMD Sinhgad School of Management Studies, Pune,1, CAT ,4.2,172000,180
+102,Mahatma Jyotiba Phule Rohilkhand University,Bareilly,4, UPCET ,2.4,8000,160
+103,Vidya Knowledge Park,Meerut,2, CAT ,3.7,119000,150
+104,Indira Global Business School, Pune,1, CAT ,3.8,352000,60
+105,Vidyavardhaka College of Engineering,Mysore,1, Karnataka PGCET ,3.9,117000,120
+106,"Rayat Institute of Management, S.B.S Nagar",Punjab - Other,1, CMAT ,2.0,165000,60
+107,H.K. Institute of Management Studies and Research, Mumbai,2, CAT ,1.0,204000,180
+108,KSR Educational Institutions,Namakkal,2, MAT ,2.3,35000,120
+109,Hindustan Institute of Management and Computer Studies,Mathura,2, CAT ,4.0,119000,150
+110,Dr. Panjabrao Deshmukh Institute of Management Technology and Research,Nagpur,1, CAT ,4.0,160000,120
+111,"ISB&M - International School of Business and Media, Bangalore", Bangalore,5, CAT ,4.6,900000,90
+112,GIBS Business School,Bangalore,1, CAT ,4.5,825000,180
+113,Vidya Jyothi Institute of Technology, Hyderabad,1, TSICET ,3.9,104000,60
+114,Surana College Post Graduate Departments, Bangalore,1, Karnataka PGCET ,4.1,117000,120
+115,Vishwa Vishwani Institute of Systems and Management, Hyderabad,9, CAT ,4.2,140000,600
+116,Ganga Institute of Technology and Management,Jhajjar,1, CAT ,5.0,115999,240
+117,MP Birla Institute of Management, Bangalore,2, Karnataka PGCET ,3.9,117000,180
+118,BITM - Ballari Institute of Technology and Management,Karnataka - Other,1, Karnataka PGCET ,3.5,117000,180
+119,Mumbai Institute of Management and Research (MIMR), Mumbai,1, CAT ,1.7,260000,120
+120,Andhra Mahila Sabha School of Informatics, Hyderabad,1, TSICET ,3.3,90000,120
+121,Sarojini Naidu Vanita Mahavidyalaya College For Women, Hyderabad,1, TSICET ,5.0,90000,120
+122,Alard Group of Institutes, Pune,1, MAH CET ,4.0,135000,90
+123,Amjad Ali Khan College of Business Administration (AAKCBA), Hyderabad,1, TSICET ,3.9,140000,180
+124,Ambalika Institute of Management and Technology,Lucknow,3, CAT ,3.8,27000,160
+125,VIBRM - Vaishali Institute of Business and Rural Management,Muzaffarpur,1, CAT ,3.0,300000,77
+126,K.S. Group of Institutions, Bangalore,1, Karnataka PGCET ,3.2,117000,60
+127,Dayanand Anglo Vedic Institute of Engineering and Technology,Jalandhar,1, CMAT ,4.8,165000,60
+128,Xavier Institute of Management and Research, Mumbai,1, CAT ,3.7,520000,60
+129,DY Patil Akurdi MBA, Pune,1, CAT ,4.6,259000,60
+130,Loyola Institute of Technology, Chennai,1, TANCET MBA ,1.5,35000,60
+131,VIT - Vidyalankar Institute of Technology, Mumbai,1, CAT ,4.1,272000,120
+132,Progressive Education Society's Modern College of Engineering, Pune,1, CAT ,4.3,152000,120
+133,L.J. Institute of Management Studies, Ahmedabad,3, CAT ,4.1,172000,420
+134,Zeal College of Engineering and Research, Pune,1, JEE Main ,4.0,167000,60
+135,Malla Reddy College of Engineering and Technology, Hyderabad,1, TSICET ,4.1,90000,240
+136,Badruka College Post Graduate Center, Hyderabad,1, TSICET ,4.3,140000,120
+137,"St Xavier's University, Kolkata",Kolkata,1, CAT ,3.4,1080000,120
+138,NMIMS Deemed to be University - Navi Mumbai Campus, Mumbai,2, NMAT ,4.4,1510000,180
+139,K. K. Wagh Institute of Engineering Education and Research,Nashik,1, CAT ,3.7,180000,60
+140,Acharya Institute of Technology, Bangalore,1, Karnataka PGCET ,4.1,117000,240
+141,St. Joseph's College of Engineering, Chennai,2, TANCET MBA ,3.0,35000,180
+142,Hindusthan College of Arts and Science [HICAS],Coimbatore,1, MAT ,3.7,234000,240
+143,"Delhi School of Management, DTU", Delhi,1, CAT ,4.2,287000,271
+144,AIMS IBS, Bangalore,1, CAT ,4.9,575000,120
+145,Indus University, Ahmedabad,3, CAT ,2.8,164000,180
+146,"Symbiosis Institute of Health Sciences, Symbiosis International, Pune", Pune,1, SNAP ,3.4,1034000,120
+147,Maharaja Agrasen Institute of Technology, Delhi,1, CAT ,3.7,320000,180
+148,Silver Oak University, Ahmedabad,3, CMAT ,3.8,170000,870
+149,Sri Krishna College of Technology [SKCT],Coimbatore,1, TANCET MBA ,4.5,35000,120
+150,M.S. Ramaiah University of Applied Sciences (MSRUAS), Bangalore,1, Karnataka PGCET ,3.4,680000,240
+151,Gayatri Vidya Parishad College for Degree and PG Courses,Visakhapatnam,2, APICET ,3.4,140000,180
+152,"Amrut Mody School of Management, Ahmedabad University", Ahmedabad,3, CAT ,3.5,304000,175
+153,JSPM’s Narhe Technical Campus, Pune,1, CAT ,4.0,180000,120
+154,Marathwada Mitra Mandal's College of Engineering, Pune,1, CAT ,3.0,142000,60
+155,Vignan's Institute of Information Technology,Visakhapatnam,1, APICET ,4.0,89400,120
+156,RIIM - Arihant Group of Institutes, Pune,5, CAT ,4.6,182000,300
+157,PSIT College of Management,Kanpur,1, UPCET ,4.4,119000,300
+158,SNIST - Sreenidhi Institute of Science and Technology, Hyderabad,1, TSICET ,4.1,170000,60
+159,Ethiraj College for Women (Ethiraj), Chennai,1, TANCET MBA ,3.4,231999,60
+160,Noida Institute of Engineering and Technology (NIET),Greater Noida,3, CAT ,4.3,140000,420
+161,"Sri Jayachamarajendra College of Engineering (SJCE Mysore), JSS STU",Mysore,1, Karnataka PGCET ,3.9,120000,120
+162,Ramaiah Institute of Technology, Bangalore,1, Karnataka PGCET ,4.0,117000,120
+163,Asian Business School (ABS),Noida,1, CAT ,4.1,795000,180
+164,Dr. D. Y. Patil Institute of Management Studies, Pune,1, CAT ,3.8,278000,180
+165,NSB Academy, Bangalore,1, CAT ,4.3,800000,300
+166,MNIT Jaipur - Malaviya National Institute of Technology,Jaipur,1, CAT ,3.6,200000,79
+167,"SMS - School of Management Sciences, Varanasi",Varanasi,1, CAT ,4.2,288000,300
+168,"MET League of Colleges, Bhujbal Knowledge City, Nashik",Nashik,1, CAT ,5.0,296000,180
+169,Babu Banarasi Das University,Lucknow,2, CAT ,3.6,250000,210
+170,GNIOT Institute of Management Studies,Greater Noida,1, CAT ,4.7,576000,180
+171,NHCE Bangalore - New Horizon College of Engineering, Bangalore,1, CAT ,4.3,500000,180
+172,Osmania University College for Women, Hyderabad,1, TSICET ,4.0,70000,60
+173,Jayawantrao Sawant Institute of Management and Research, Pune,1, CAT ,4.8,198000,120
+174,Sri Sai Ram Engineering College, Chennai,1, TANCET MBA ,3.9,35000,120
+175,"Bhavan's Vivekananda College of Science, Humanities and Commerce",Secunderabad,1, TSICET ,3.8,180000,120
+176,Vardhaman College of Engineering, Hyderabad,1, TSICET ,3.9,90000,60
+177,Dr. D. Y. Patil Institute of Management, Pune,1, CAT ,4.0,145000,120
+178,JSPM’s Kautilya Institute of Management and Research, Pune,1, CAT ,4.8,196000,120
+179,Chimanbhai Patel Institute of Mangement and Research (CPIMR), Ahmedabad,1, CAT ,4.2,174000,180
+180,Kohinoor Management School, Mumbai,1, CAT ,3.6,610000,180
+181,Velammal Engineering College,Chennai,1, TANCET MBA ,3.5,35000,60
+182,Biju Patnaik Institute of Information Technology and Management Studies,Bhubaneswar,1, CAT ,4.6,224000,60
+183,Sinhgad College of Engineering, Pune,1, CAT ,4.0,274000,60
+184,R.N.S. Institute of Technology, Bangalore,1, Karnataka PGCET ,3.5,117000,180
+185,NITK Surathkal - National Institute of Technology,Mangalore,1, CAT ,4.0,200000,64
+186,NIT Kurukshetra - National Institute of Technology,Kurukshetra,1, CAT ,4.0,140000,53
+187,"ICFAI Business School (IBS), Bangalore", Bangalore,4, CAT ,3.9,1206000,733
+188,AIMS Institute of Management Studies, Pune,2, CAT ,4.2,395000,180
+189,"Institute for Future Education, Entrepreneurship and Leadership", Pune,1, CAT ,4.1,600000,120
+190,SOA - Siksha 'O' Anusandhan University,Bhubaneswar,4, CAT ,4.2,250000,270
+191,University of Kalyani, Kolkata,2, CAT ,4.4,70000,103
+192,Nizam College, Hyderabad,1, TSICET ,2.6,54000,60
+193,"ICFAI Business School, Gurgaon",Gurgaon,1, CAT ,4.0,909000,500
+194,"Sinhgad Institute of Management (MBA), Pune", Pune,1, CAT ,3.4,256000,600
+195,MVSR Engineering College,Hyderabad,1, TSICET ,3.5,130000,60
+196,Panimalar Engineering College, Chennai,1, TANCET MBA ,4.2,35000,180
+197,IPER - Institute of Professional Education and Research,Bhopal,1, CMAT ,4.3,199000,300
+198,Madan Mohan Malviya University of Technology,Gorakhpur,1, CUET-PG ,2.6,202999,75
+199,"Cambridge Institute of Technology, K R Puram", Bangalore,1, Karnataka PGCET ,4.3,500000,120
+200,BV Raju Institute of Technology,Hyderabad,1, TSICET ,3.2,130000,60
+201,NITTE Meenakshi Institute of Technology, Bangalore,1, Karnataka PGCET ,3.4,117000,120
+202,CHRIST (Deemed to be University) - Delhi NCR Campus,Ghaziabad,2, CAT ,4.5,775000,240
+203,SKIPS - St. Kabir Institute of Professional Studies, Ahmedabad,1, CAT ,4.2,508000,240
+204,University of Mumbai [MU], Mumbai,2, CAT ,3.5,200000,120
+205,"G H Raisoni Institute of Engineering and Technology, Nagpur",Nagpur,1, CAT ,4.5,223000,120
+206,Prof. Ram Meghe Institute of Technology and Research,Amravati,1, CAT ,4.0,183000,120
+207,Pune Business School, Pune,1, CAT ,4.9,550000,120
+208,Loyola Academy Degree and PG College,Secunderabad,1, TSICET ,4.0,115999,120
+209,"IndSearch Institute of Management Studies and Research, Bavdhan Campus", Pune,1, CAT ,4.2,216000,150
+210,"Dr D Y Patil School of Management, Pune", Pune,1, CAT ,4.5,213000,120
+211,"Jawaharlal Nehru Technological University, Kakinada",Kakinada,1, APICET ,4.0,54000,60
+212,"Xavier Institute of Management and Entrepreneurship, Chennai", Chennai,1, CAT ,4.7,850000,120
+213,Indore Institute of Management and Research,Indore,1, CMAT ,4.4,122000,180
+214,IFIM College, Bangalore,1, CAT ,3.9,915000,180
+215,Prin. N.G. Naralkar Institute of Career Development and Research, Pune,1, MAH CET ,4.7,260000,120
+216,"D Y Patil University, Pune", Pune,2, CAT ,4.0,250000,120
+217,RVR and JC College of Engineering,Guntur,1, APICET ,3.7,106000,120
+218,Dr. Ambedkar Institute of Management Studies and Research,Nagpur,1, CAT ,4.2,167000,240
+219,NIT Durgapur - National Institute of Technology,Durgapur,1, CAT ,3.7,150000,45
+220,"Regional College of Management, Bangalore", Bangalore,3, CAT ,4.8,117000,240
+221,B.K. School of Professional and Management Studies, Ahmedabad,20, CAT ,4.0,13000,668
+222,"ICFAI Business School (IBS), Pune", Pune,1, CAT ,3.9,909000,460
+223,Dr. D. Y. Patil Institute of Management and Research, Pune,2, CAT ,3.9,229999,240
+224,CMR Technical Campus, Hyderabad,1, TSICET ,4.3,86000,180
+225,Navrachana University,Vadodara,1, CAT ,4.3,218000,60
+226,Institute of Insurance and Risk Management, Hyderabad,2, CAT ,4.6,800000,180
+227,NIT Silchar - National Institute of Technology,Silchar,1, CAT ,4.2,160000,75
+228,"Guru Nanak Institute of Technology, Telangana", Hyderabad,1, TSICET ,3.8,90000,60
+229,"G.H. Raisoni College of Engineering, Nagpur",Nagpur,1, CAT ,3.2,240000,60
+230,Atharva School of Business, Mumbai,2, CAT ,4.2,430000,180
+231,"Symbiosis Institute of Management Studies, Symbiosis International, Pune", Pune,2, SNAP ,4.1,1050000,300
+232,"NMIMS University, Hyderabad", Hyderabad,4, NMAT ,3.8,1007000,300
+233,"Symbiosis Institute of Business Management, Symbiosis International, Nagpur",Nagpur,2, SNAP ,4.3,1000000,210
+234,IIM Indore - Indian Institute of Management - Mumbai Campus,Navi Mumbai,1, CAT ,4.1,1610000,62
+235,Narayana Business School, Ahmedabad,4, NBSAT ,4.4,710000,480
+236,Dr. B.C. Roy Engineering College,Durgapur,1, CAT ,3.9,320000,60
+237,PIET - Panipat Institute of Engineering and Technology,Panipat,1, CMAT ,4.4,183000,180
+238,VIT Business School Chennai, Chennai,1, CAT ,4.1,697000,120
+239,"A.V. College of Arts, Science and Commerce", Hyderabad,1, TSICET ,3.0,110000,60
+240,"NMIMS University, Indore",Indore,3, NMAT ,4.3,1382000,180
+241,TKR College of Engineering and Technology, Hyderabad,1, TSICET ,2.3,90000,60
+242,Malla Reddy Engineering College,Secunderabad,1, TSICET ,3.2,90000,60
+243,TAT - Trident Academy of Technology,Bhubaneswar,1, OJEE ,5.0,164000,60
+244,"Lakshmi Narain College of Technology, Bhopal",Bhopal,2, CMAT ,3.9,110000,300
+245,"School of Business, Public Policy and Social Entrepreneurship, Dr. B.R. Ambedkar University Delhi, Kashmere Gate Campus", Delhi,1, CMAT ,3.5,250999,53
+246,"Aurora's Post Graduate College, Ramanthapur", Hyderabad,3, TSICET ,3.9,170000,480
+247,"G H Raisoni Institute of Management and Research, Khaparheda Nagpur",Nagpur,1, CAT ,4.3,168000,180
+248,Anna University - Coimbatore Regional Campus,Coimbatore,1, TANCET MBA ,3.2,35000,120
+249,Firebird Institute of Research in Management (FIRM),Coimbatore,1, CAT ,4.5,530000,120
+250,National Institute of Securities Markets,Raigad,1, CAT ,4.3,600000,120
+251,Coimbatore Institute Of Engineering And Technology - CIET Coimbatore,Coimbatore,1, TANCET MBA ,4.0,35000,60
+252,Velagapudi Ramakrishna Siddhartha Engineering College,Vijayawada,1, APICET ,3.9,130000,60
+253,Tirpude Institute of Management Education,Nagpur,1, CAT ,4.2,231000,180
+254,Shanti Business School, Ahmedabad,2, CAT ,4.3,715000,240
+255,Global Academy of Technology, Bangalore,1, Karnataka PGCET ,5.0,117000,120
+256,"Management Development Institute, Murshidabad",Murshidabad,1, CAT ,4.2,977000,180
+257,Sir M. Visvesvaraya Institute of Technology, Bangalore,1, Karnataka PGCET ,3.3,117000,120
+258,MITE - Mangalore Institute of Technology and Engineering,Mangalore,1, Karnataka PGCET ,2.5,117000,120
+259,Institute of Industrial and Computer Management and Research, Pune,1, CAT ,4.0,575000,120
+260,Banarsidas Chandiwala Institute of Professional Studies, Delhi,1, CAT ,3.5,218000,120
+261,"HPU Business School, Himachal Pradesh University",Shimla,1, HPU MAT ,3.9,7900,120
+262,Birla Global University,Bhubaneswar,2, CAT ,4.2,716000,180
+263,Karnataka College of Management, Bangalore,1, CAT ,4.0,595000,120
+264,GSSS Institute of Engineering and Technology for Women,Mysore,1, Karnataka PGCET ,5.0,117000,120
+265,"Symbiosis School of Banking and Finance, Symbiosis International, Pune", Pune,1, SNAP ,3.0,1516000,90
+266,Geethanjali College of Engineering and Technology,Ranga Reddy,1, TSICET ,3.5,84000,60
+267,IMRT Business School,Lucknow,1, CAT ,3.7,240000,180
+268,"Amrita School of Business, Amrita Vishwa Vidyapeetham - Kochi Campus",Kochi,1, CAT ,4.0,1050000,60
+269,Sankara College of Science and Commerce,Coimbatore,1, MAT ,4.4,220000,120
+270,FIEM - Future Institute of Engineering and Management, Kolkata,1, CMAT ,4.3,459999,60
+271,USTM - University of Science & Technology Meghalaya,Shillong,1, CAT ,3.9,240000,120
+272,SKN Sinhgad School of Business Management, Pune,1, CAT ,4.0,208000,300
+273,Accurate Group of Institutions,Greater Noida,2, CAT ,4.4,119000,210
+274,"College of Engineering, Anna University", Chennai,2, TANCET MBA ,3.9,50000,120
+275,Bhagwan Parshuram Institute of Technology, Delhi,1, CAT ,3.3,218000,60
+276,Gyan Ganga College of Technology (GGCT),Jabalpur,1, CMAT ,3.8,110000,120
+277,"Christ - Lavasa, Pune Campus", Pune,1, CAT ,3.6,805000,180
+278,Utkal University,Bhubaneswar,6, OJEE ,3.9,50000,224
+279,Trinity Institute of Management and Research, Pune,1, CAT ,4.0,149000,120
+280,St Ann's College for Women, Hyderabad,1, TSICET ,2.8,86000,60
+281,Villa Marie College for women, Hyderabad,1, TSICET ,3.4,110000,180
+282,Jayawantrao Sawant College of Engineering, Pune,1, CAT ,4.6,209000,60
+283,Vignana Bharathi Institute of Technology, Hyderabad,1, TSICET ,3.3,80000,120
+284,SP Jain School of Global Management, Mumbai,4, CAT ,4.1,1317000,180
+285,DAVV - Devi Ahilya Vishwavidyalaya,Indore,2, CUET-PG ,2.2,28000,100
+286,Priyadarshini Lokmanya Tilak Institute of Management Studies and Research (PLTIMSR),Nagpur,1, CAT ,3.0,165000,120
+287,Deccan Education Society- Institute of Management Development and Research- IMDR, Pune,1, CAT ,3.7,400000,180
+288,STEP- Harcourt Butler Technological Institute,Kanpur,1, UPCET ,3.4,119000,180
+289,KG Reddy College of Engineering and Technology, Hyderabad,1, TSICET ,4.0,80000,60
+290,IMU Chennai Indian Maritime University (IMUC), Chennai,2, IMUCET ,3.7,400000,75
+291,"M.S. Ramaiah College of Arts, Science and Commerce", Bangalore,1, Karnataka PGCET ,2.4,117000,60
+292,Vidya Vikas Institute of Engineering and Technology - VVIET,Mysore,1, Karnataka PGCET ,4.0,117000,60
+293,JSS Academy of Technical Education, Bangalore,1, Karnataka PGCET ,3.0,117000,60
+294,Adani Institute of Digital Technology Management,Ahmedabad,2, CAT ,5.0,1050000,120
+295,Stanley College of Engineering and Technology for Women, Hyderabad,1, TSICET ,3.0,100000,60
+296,Progressive Education Society’s Modern Institute of Business Management (MIBM Pune), Pune,1, CAT ,2.3,188000,180
+297,SSBT’s College of Engineering and Technology,Jalgaon,1, CAT ,4.2,93000,60
+298,Maharaj Vijayaram Gajapathi Raj College of Engineering (MVGRCE),Vizianagaram,1, APICET ,4.5,89000,120
+299,Vidyalankar School of Business, Mumbai,2, CAT ,4.0,650000,120
+300,Vidya Pratishthan's Institute of Information Technology,Baramati,1, CAT ,3.9,200000,60
+301,Uka Tarsadia University,Surat,1, CAT ,4.9,130000,180
+302,Rukmini Devi Institute of Advanced Studies, Delhi,2, CAT ,3.9,349000,240
+303,C. V. Raman Global University,Bhubaneswar,2, CAT ,4.6,264000,90
+304,J S Kothari Business School, Mumbai,1, CAT ,4.8,600000,60
+305,Adamas University, Kolkata,4, CAT ,4.9,240000,120
+306,School of Management Sciences,Lucknow,1, CMAT ,4.5,119000,90
+307,"Andhra Loyola College (ALC, Vijayawada)",Vijayawada,1, APICET ,4.5,70000,120
+308,Shri Dharmasthala Manjunatheshwara College of Engineering and Technology,Dharwad,1, Karnataka PGCET ,3.0,117000,60
+309,Wesley P.G. College,Secunderabad,1, TSICET ,2.5,90000,420
+310,Pillai Institute of Management Studies and Research,Navi Mumbai,1, CAT ,4.5,450000,60
+311,Aditya Engineering College,East Godavari,3, CAT ,4.5,120000,240
+312,"G H Raisoni Institute of Business Management, Jalgaon",Jalgaon,2, CAT ,4.6,170000,180
+313,Guru Ghasidas Vishwavidyalaya,BilasPur,1, CUET-PG ,3.4,50200,50
+314,IILM College of Management Studies,Greater Noida,1, CAT ,3.6,540000,120
+315,Medi-Caps University,Indore,4, CAT ,3.9,200000,600
+316,Doon University,Dehradun,4, CAT ,3.6,100000,85
+317,ITM (SLS) Baroda University,Vadodara,1, CMAT ,3.7,140000,120
+318,Rajalakshmi School of Business, Chennai,2, CAT ,4.0,633000,120
+319,Institute of Marketing and Management (IMM),Delhi,3, CAT ,4.2,810000,540
+320,Dhanalakshmi Srinivasan Engineering College - DSEC,Tamil Nadu - Other,1, TANCET MBA ,3.0,35000,60
+321,DCRUST - Deenbandhu Chhotu Ram University of Science and Technology,Sonepat,3, CMAT ,3.5,117000,150
+322,"Department of Business Administration and Management, Sant Gadge Baba Amravati University",Amravati,1, CAT ,3.9,33000,60
+323,"Symbiosis School of Sports Sciences, Symbiosis International, Pune", Pune,1, SNAP ,4.0,880000,60
+324,Panjab University (PUCHD),Chandigarh,2, PU-CET (PG) ,4.1,441000,78
+325,IMS Engineering College,Ghaziabad,1, UPCET ,4.1,119000,60
+326,Kasturba Gandhi Degree and PG College for Women,Secunderabad,1, TSICET ,4.4,90000,120
+327,Srinivas Institute of Management Studies,Mangalore,1, KMAT ,2.6,70000,120
+328,ODM Business School,Bhubaneswar,1, CAT ,4.4,387000,60
+329,Vishwakarma University, Pune,2, MAH CET ,3.3,500000,120
+330,Bhavan's Royal Institute of Management,Kochi,1, CAT ,4.4,280000,60
+331,Dayananda Sagar Business School, Bangalore,1, CAT ,4.6,765000,60
+332,Center of Excellence in Analytics and Data Science, Mumbai,1, NMAT ,5.0,1650000,60
+333,Shree Devi Institute of Technology,Mangalore,1, Karnataka PGCET ,3.0,117000,120
+334,Guru Nanak College, Chennai,6, MAT ,4.8,45500,120
+335,LNMU - Lalit Narayan Mithila University,Bihar - Other,1, CMAT ,4.0,110000,60
+336,"G H Raisoni School of Business Management, Nagpur",Nagpur,1, CAT ,2.0,202000,150
+337,"Devi Ahilya Vishwavidyalaya, Takshashila Campus",Indore,22, CMAT ,3.9,50000,1425
+338,Netaji Subhas University of Technology, Delhi,2, CAT ,4.1,143000,90
+339,"Amrita School of Business, Amrita Vishwa Vidyapeetham - Amritapuri Campus",Kollam,1, CAT ,4.4,1050000,60
+340,Gautam Buddha University,Greater Noida,5, CAT ,3.6,400000,220
+341,Adi Shankara Institute of Engineering and Technology,Ernakulum,1, CAT ,4.2,562000,120
+342,"Swami Keshvanand Institute of Technology Management and Gramothan, Jaipur",Jaipur,1, CAT ,4.3,115999,60
+343,"Graphic Era Hill University, Dehradun",Dehradun,4, CAT ,3.9,267000,240
+344,Shri Ram Institute of Technology,Jabalpur,1, CMAT ,2.0,82400,120
+345,International Institute of Business Studies, Bangalore,6, CAT ,4.2,545000,720
+346,RK University - RKU,Rajkot,1, CAT ,4.5,156000,135
+347,CIEM - Calcutta Institute Of Engineering & Management, Kolkata,1, CAT ,3.8,425000,60
+348,G Pullaiah College of Engineering and Technology,Kurnool,1, APICET ,3.3,54000,60
+349,Som-Lalit Education and Research Foundation (SLERF), Ahmedabad,4, CAT ,3.9,229999,390
+350,Goa University,Goa - Other,3, CMAT ,2.7,91600,188
+351,"Delhi Technological University, East Delhi", Delhi,4, CAT ,4.4,396000,195
+352,"S B Jain Institute of Technology, Management and Research",Nagpur,1, CAT ,5.0,150000,60
+353,DDU - Dharmsinh Desai University,Gujarat - Other,1, CAT ,3.9,304000,60
+354,Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College), Delhi,1, CAT ,2.9,254999,120
+355,"Ravenshaw University, Mahanadi",Cuttack,1, OJEE ,4.0,342000,48
+356,IIEST Shibpur - Indian Institute of Engineering Science and Technology,Howrah,1, CAT ,4.4,400000,60
+357,SAL Education, Ahmedabad,1, CAT ,5.0,130000,180
+358,Deccan School of Management, Hyderabad,1, TSICET ,3.5,90000,240
+359,"SNS College of Engineering, SNS Group of Institutions",Coimbatore,1, TANCET MBA ,4.1,35000,60
+360,Ravenshaw University,Cuttack,1, CAT ,4.1,342000,50
+361,"International Institute of Management and Human Resource Development, Sai Balaji Education Society", Pune,1, CAT ,4.5,400000,120
+362,Christ - Kengeri Campus, Bangalore,1, CAT ,4.4,819999,300
+363,"JSS Academy of Technical Education, JSS Mahavidyapeetha, Noida",Noida,2, UPCET ,1.8,119000,90
+364,"GEHU - Graphic Era Hill University, Bhimtal",Nainital,1, CAT ,4.1,390000,60
+365,Rajadhani Business School,Thiruvananthapuram,1, CAT ,4.0,368000,120
+366,"SMIT - Sikkim Manipal Institute of Technology, Sikkim Manipal University",Rangpo,1, CAT ,4.5,550000,60
+367,Shri Shankaracharya Institute of Professional Management and Technology,Raipur,1, CAT ,3.0,129000,120
+368,KIT's Institute of Management Education and Research (KIT's IMER),Kolhapur,1, CAT ,4.0,150000,120
+369,"KDK College of Engineering, Nagpur",Nagpur,1, CAT ,4.1,164000,60
+370,L.N.Mishra Institute of Economic Development and Social Change,Patna,3, CMAT ,3.7,112000,355
+371,"Dr. B.R. Ambedkar University Delhi, Kashmere Gate", Delhi,1, CUET-PG ,4.0,212000,20
+372,Jyoti Nivas College, Bangalore,1, Karnataka PGCET ,3.0,117000,60
+373,P. P. Savani University,Surat,2, CMAT ,5.0,288000,60
+374,Sanjay Ghodawat University - SGU,Kolhapur,3, CAT ,3.7,310000,180
+375,Global Institute of Technology and Management,Gurgaon,1, CAT ,4.0,180000,60
+376,Nagarjuna College of Engineering and Technology, Bangalore,1, Karnataka PGCET ,4.0,117000,120
+377,St. Martin's Engineering College (SMEC Secunderabad),Secunderabad,1, TSICET ,1.0,100000,120
+378,MET Institute of Post Graduate Diploma in Management, Mumbai,2, CAT ,4.3,990000,120
+379,ADBU - Assam Don Bosco University,Guwahati,2, CAT ,3.6,360000,120
+380,Atmiya University,Rajkot,2, CAT ,3.8,184000,202
+381,Burdwan University,Bardhaman,8, CAT ,4.7,30000,420
+382,Rajasthan Technical University,Kota,1, CAT ,3.9,105000,60
+383,PAU - Punjab Agricultural University,Ludhiana,2, PAU Entrance Exam ,3.5,229000,90
+384,Maharana Pratap Engineering College,Kanpur,1, UPCET ,4.0,119000,60
+385,"Girijananda Chowdhury Institute of Management and Technology, Guwahati",Guwahati,1, CAT ,5.0,250000,60
+386,Shri Shivaji Maratha Society’s Institute of Management & Research, Pune,1, CAT ,2.5,90000,120
+387,Ashoka Business School,Nashik,2, CAT ,3.3,54000,300
+388,Prestige Institute of Engineering Management and Research,Indore,2, CAT ,4.0,314000,240
+389,Kaziranga University,Jorhat,1, CAT ,4.2,459999,120
+390,Kochi Business School,Kochi,1, CAT ,4.5,350000,120
+391,Gandhinagar University,Gandhinagar,1, CAT ,3.5,152000,60
+392,AMC Management College, Bangalore,1, CAT ,2.3,500000,196
+393,Raj Kumar Goel Institute of Technology (RKGIT),Ghaziabad,1, UPCET ,3.2,119000,120
+394,National Academy of Agricultural Research Management, Hyderabad,1, CAT ,5.0,745000,60
+395,Saranathan College of Engineering,Tiruchirappalli,1, TANCET MBA ,4.0,35000,60
+396,Ramaiah Institute of Management Studies/ Sciences, Bangalore,2, CAT ,4.2,731000,360
+397,"IILM Academy of Higher Learning, Lucknow",Lucknow,2, CAT ,4.1,409999,180
+398,Alpha College of Engineering, Chennai,1, TANCET MBA ,4.6,35000,60
+399,Pendekanti Institute of Management,Hyderabad,1, TSICET ,4.0,170000,120
+400,Methodist College of Engineering & Technology, Hyderabad,1, TSICET ,2.4,100000,60
+401,R. R. Group of Institutions,Lucknow,1, UPCET ,4.8,153000,60
+402,St. Claret College, Bangalore,1, CAT ,4.6,403000,180
+403,NIIS Institute of Business Administration (NIIS-IBA),Bhubaneswar,1, OJEE ,4.2,196000,180
+404,Arka Jain University,Jamshedpur,1, CAT ,3.5,350000,120
+405,"Siddhartha Institute of Engineering and Technology, Hyderabad", Hyderabad,1, TSICET ,2.8,80000,60
+406,ZEAL Institute of Management and Computer Application, Pune,1, CAT ,5.0,200000,120
+407,SVIMS Business School, Mumbai,2, CAT ,3.0,425000,180
+408,Sahrdaya Institute of Management Studies,Thrissur,1, CAT ,4.3,300000,60
+409,"Department of Management Studies, NALSAR University", Hyderabad,3, CAT ,2.8,400000,126
+410,Ahmedabad Institute of Technology, Ahmedabad,1, CAT ,1.0,142000,60
+411,M.Kumarasamy College of Engineering,Karur,1, TANCET MBA ,4.0,35000,60
+412,S.R. Luthra Institute of Management,Surat,2, CAT ,3.8,152000,360
+413,"SRM Institute of Science & Technology, Ghaziabad Campus",Ghaziabad,2, CAT ,3.7,321000,120
+414,NIT Agartala - National Institute of Technology,Agartala,1, CAT ,4.1,130000,38
+415,JNNCE - Jawaharlal Nehru National College of Engineering,Shimoga,1, Karnataka PGCET ,4.8,117000,120
+416,Telangana University,Nizamabad,3, TSICET ,4.0,20000,90
+417,Jhulelal Institute of Technology,Nagpur,1, CAT ,3.0,142000,120
+418,"NSHM Business School, Durgapur",Durgapur,2, CAT ,4.5,425000,60
+419,Prasad V Potluri Siddhartha Institute of Technology,Vijayawada,1, APICET ,4.5,97600,60
+420,C. Abdul Hakeem College of Engineering and Technology,Vellore,1, TANCET MBA ,3.0,35000,60
+421,"Chitkara College of Sales and Marketing, Chitkara University, Chandigarh",Chandigarh,3, CAT ,4.4,260000,400
+422,"Institute of Management, Bharati Vidyapeeth",Kolhapur,1, BMAT ,4.2,170000,60
+423,Akemi Business School, Pune,2, CAT ,4.7,300000,180
+424,Dr. B.R. Ambedkar Institute of Management and Technology, Hyderabad,1, TSICET ,1.0,70000,120
+425,United School of Business Management,Bhubaneswar,2, CAT ,4.3,160000,180
+426,LDRP Institute of Technology and Research,Gandhinagar,1, CAT ,4.0,180000,60
+427,Crescent School of Business (CSB), Chennai,2, CAT ,4.6,450000,210
+428,ITS Engineering College,Greater Noida,1, UPCET ,4.5,119000,60
+429,R.A. Podar Institute of Management,Jaipur,2, PIM-MAT ,3.9,189000,240
+430,"ASM Institute of Professional Studies, Pune", Pune,2, CAT ,4.6,170000,180
+431,Avanthi Institute of Engineering and Technology,Visakhapatnam,1, APICET ,3.0,70000,120
+432,Parvathaneni Brahmayya Siddhartha College of Arts and Science,Vijayawada,1, APICET ,4.0,132000,60
+433,Sri Vasavi Engineering College,West Godavari,1, APICET ,3.1,67000,120
+434,"School of Management Studies, Jawaharlal Nehru Technological University, Hyderabad", Hyderabad,2, TSICET ,3.3,60000,80
+435,Brindavan College of Engineering, Bangalore,1, Karnataka PGCET ,2.7,117000,30
+436,Sir C R Reddy College of Engineering,West Godavari,1, APICET ,4.0,76000,60
+437,Sushila Devi Bansal College of Technology,Indore,1, CMAT ,3.8,96600,60
+438,NLU Jodhpur (NLUJ) - National Law University,Jodhpur,2, CAT ,4.3,306000,20
+439,Symbiosis University of Applied Sciences,Indore,2, CAT ,4.2,1130000,120
+440,Maratha Mandir’s Babasaheb Gawde Institute of Management Studies, Mumbai,1, CAT ,3.9,244000,150
+441,KRCE - K Ramakrishnan College of Engineering,Tiruchirappalli,1, TANCET MBA ,2.8,35000,60
+442,B.S.A. College of Engineering and Technology,Mathura,1, UPCET ,3.0,166000,120
+443,Pratibha Institute of Business Management (Kamala Education Society's), Pune,1, CAT ,4.3,164000,180
+444,Hierank Business School,Noida,2, CAT ,4.0,119000,120
+445,Adikavi Nannaya University (AKNUDOA),Rajahmundry,2, APICET ,3.0,32600,96
+446,AMC Engineering College, Bangalore,1, CAT ,1.3,500000,120
+447,Athena School of Management, Mumbai,3, NMAT ,4.5,1350000,120
+448,Aurora's Post Graduate College, Hyderabad,1, TSICET ,3.3,160000,150
+449,Guru Nanak Institutions Technical Campus, Hyderabad,2, TSICET ,4.3,100000,240
+450,Goel Group of Institutions,Lucknow,1, CAT ,4.8,119000,150
+451,GD Goenka University,Gurgaon,17, CAT ,4.8,129000,120
+452,Yashoda Technical Campus,Satara,1, CAT ,2.0,164000,60
+453,Rabindranath Tagore University,Bhopal,3, AJEE ,3.2,50000,120
+454,Chaudhary Charan Singh Haryana Agricultural University,Haryana - Other,2, CAT ,4.5,66000,28
+455,Chaudhary Charan Singh National Institute of Agricultural Marketing,Jaipur,1, CAT ,4.9,606000,60
+456,Mahatma Gandhi Central University,Bihar - Other,1, CUET-PG ,3.0,49200,50
+457,Gangadhar Meher University,Sambalpur,2, CAT ,4.3,90000,120
+458,Avanthi P.G. College, Hyderabad,1, TSICET ,4.8,100000,180
+459,Malwa Institute of Technology,Indore,1, CAT ,2.3,105000,180
+460,Vignan's Institute of Engineering for Women (VIEW Visakhapatnam),Visakhapatnam,1, APICET ,3.4,54000,120
+461,Shri Gulabrao Deokar College Of Engineering,Jalgaon,1, CAT ,3.0,83000,60
+462,R.M.K. Engineering College,Tamil Nadu - Other,1, TANCET MBA ,3.0,35000,60
+463,"Delhi Technical Campus, Greater Noida",Greater Noida,1, CAT ,3.0,275000,60
+464,Hirachand Nemchand College of Commerce (HNCC),Solapur,1, CAT ,4.0,244000,120
+465,GL Bajaj Group of Institutions - GLBGI,Mathura,5, CAT ,4.3,170000,300
+466,Madanapalle Institute of Technology and Science,Chittoor,2, APICET ,3.4,89000,420
+467,"GITAM School of Business, Bengaluru", Bangalore,1, CAT ,3.2,600000,60
+468,R.B Institute of Management Studies (RBIMS), Ahmedabad,2, CMAT ,5.0,142000,180
+469,DRIEMS Group of Institutions,Cuttack,2, CAT ,3.0,120000,240
+470,AURO University,Surat,3, CAT ,4.8,700000,45
+471,"University of Engineering and Technology, Roorkee",Roorkee,1, CAT ,4.3,252999,120
+472,Punjabi University,Patiala,10, CMAT ,3.9,141000,532
+473,Andhra Loyola Institute of Engineering and Technology,Vijayawada,1, APICET ,2.7,90000,60
+474,"University College of Engineering, Tiruchirappalli, Anna University",Tiruchirappalli,1, TANCET MBA ,4.4,35000,60
+475,Chhatrapati Shahu Institute of Business Education and Research,Kolhapur,3, CAT ,3.8,192000,240
+476,Dnyansagar Institute of Management and Research- DIMR, Pune,1, CAT ,4.0,208000,180
+477,St. Joseph Engineering College - SJEC,Mangalore,2, Karnataka PGCET ,4.4,117000,120
+478,NBN Sinhgad School of Management Studies, Pune,1, CAT ,4.6,184000,180
+479,J.B. Institute of Engineering and Technology, Hyderabad,1, TSICET ,2.3,90000,60
+480,Dr. Virendra Swarup Group of Institutions (VSGOI),Kanpur,2, CAT ,4.0,180000,60
+481,Godavari Institute of Engineering and Technology,Rajahmundry,1, APICET ,3.2,88200,60
+482,Berhampur University,Orissa - Other,2, OJEE ,3.8,60000,100
+483,New Delhi Institute for Information Technology and Management, Delhi,1, CAT ,5.0,640000,120
+484,Sree Vidyaniketan Institute of Management,Tirupati,1, APICET ,3.7,107000,180
+485,Pravara Centre for Management Research and Development, Pune,1, CAT ,3.6,196000,120
+486,Jaypee Business School,Noida,3, CAT ,3.7,400000,120
+487,"Bharat Institute of Engineering and Technology, Telangana",Hyderabad,1, TSICET ,4.4,120000,60
+488,Guru Nanak Institute of Management, Delhi,1, CAT ,2.8,469000,90
+489,Patna University,Patna,6, CAT ,1.5,9000,285
+490,Don Bosco Institute Of Management Studies And Computer Applications Mysore Road, Bangalore,1, Karnataka PGCET ,3.0,117000,120
+491,"University Institute of Applied Management Sciences, Panjab University",Chandigarh,7, PU MET ,3.8,479000,200
+492,BFIT Group of Institutions,Dehradun,1, CAT ,2.0,241000,60
+493,Jeppiaar Engineering College, Chennai,1, TANCET MBA ,2.7,35000,60
+494,Guru Nanak Institute of Hotel Management, Kolkata,1, GNIHM JET ,4.8,343000,60
+495,S.E.A College of Engineering & Technology, Bangalore,1, Karnataka PGCET ,1.0,117000,60
+496,K.C.College of Engineering and Management Studies and Research, Mumbai,1, CAT ,3.0,267000,60
+497,"Indian Institute of Tourism and Travel Management, Noida",Noida,1, CAT ,4.1,191000,93
+498,Nagpur Institute of Technology,Nagpur,1, CAT ,3.5,150000,60
+499,S.K. Patel Institute of Management and Computer Studies,Gandhinagar,1, CAT ,4.7,222000,120
+500,ASM Institute of Management and Computer Studies, Thane,4, CAT ,4.5,650000,120
+501,Kashi Institute of Technology,Varanasi,1, CAT ,4.2,220000,90
+502,Swami Vivekanand Group of Institutes,Patiala,1, CMAT ,4.0,160000,60
+503,Indian Institute of Plantation Management, Bangalore,4, CAT ,3.1,108000,270
+504,J.D.C. Bytco Institute of Management Studies and Research,Nashik,1, CAT ,3.7,240000,60
+505,"Astral Institute of Technology and Research (Astral, Indore)",Indore,1, CAT ,5.0,80200,240
+506,M.V.J. College of Engineering, Bangalore,1, CAT ,2.2,307000,60
+507,St Xavier's Catholic College of Engineering,Nagercoil,1, TANCET MBA ,3.0,35000,60
+508,Sadhu Vaswani Institute of Management Studies for Girls (SVIMS Pune), Pune,1, CAT ,3.6,240000,60
+509,Tripura University,Agartala,2, CAT ,3.0,25100,160
+510,NIT Jalandhar - Dr. B. R. Ambedkar National Institute of Technology,Jalandhar,2, CAT ,4.1,140000,38
+511,SSVPS's Bapusaheb Shivajirao Deore College of Engineering (SSVPS's BSD COE),Dhule,1, CAT ,4.0,106000,60
+512,Malla Reddy Institute Of Management (MRIM),Secunderabad,1, TSICET ,3.5,70000,240
+513,Adani Institute of Infrastructure Management, Ahmedabad,4, CAT ,4.3,760000,120
+514,Dhanalakshmi Srinivasan College Of Engineering And Technology - DSCET, Chennai,1, MAT ,1.8,35000,60
+515,Pydah College of Engineering and Technology,Visakhapatnam,1, APICET ,2.9,54000,162
+516,Lucknow Institute of Technology,Lucknow,1, UPCET ,4.0,119000,60
+517,National Institute of Science and Technology,Brahmapur,2, CAT ,4.2,186000,120
+518,Shri G. S. Institute of Technology and Science,Indore,2, CMAT ,3.4,150000,120
+519,Central University of Odisha,Orissa - Other,1, CUET-PG ,3.1,4800,44
+520,Myra School of Business,Mysore,1, CAT ,3.6,940000,120
+521,St. Xaviers PG College, Hyderabad,1, TSICET ,5.0,78000,240
+522,Gudlavalleru Engineering College,Andhra Pradesh - Other,1, APICET ,4.2,86000,60
+523,Chaitanya University,Warangal,1, TSICET ,4.1,140000,240
+524,CSAUK - Chandra Shekhar Azad University of Agriculture and Technology,Kanpur,1, ICAR AIEEA ,4.4,135000,60
+525,Sinhgad Institute of Business Administration and Computer Application, Pune,1, CAT ,3.3,360000,60
+526,Lakireddy Bali Reddy College of Engineering,Krishna,1, APICET ,4.2,89200,120
+527,Saurashtra University,Rajkot,2, CMAT ,3.3,100000,90
+528,Jain College of Engineering - JCE,Belgaum,1, Karnataka PGCET ,3.5,117000,120
+529,Techno India University, Kolkata,20, CAT ,3.4,535000,30
+530,Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi,2, JEE Main ,5.0,805000,30
+531,FBS - Fisat Business School,Kochi,1, CAT ,3.8,430999,120
+532,Palamuru University,Telangana-Other,1, TSICET ,4.2,53400,60
+533,"University of Lucknow, Jankipuram Campus",Lucknow,5, LUMET ,3.3,324000,480
+534,"Vivekanadha College of Engineering For Women, Vivekanandha Educational Institutions for Women",Namakkal,1, TANCET MBA ,4.4,35000,30
+535,"Institute of Management and Information Technology, Biju Patnaik University of Technology",Cuttack,1, CAT ,3.0,65200,102
+536,"Maharaja Institute of Technology, Mysore",Mysore,1, Karnataka PGCET ,2.5,117000,120
+537,"Footwear Design and Development Institute, Noida",Noida,1, MAT ,3.9,484999,60
+538,Moodlakatte Institute of Technology - MIT KUNDAPURA,Udupi,1, Karnataka PGCET ,4.0,117000,60
+539,Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya University, Chennai,1, CAT ,3.2,250000,60
+540,Gujarat Technological University, Ahmedabad,3, CAT ,4.0,50000,90
+541,Sipna College of Engineering and Technology,Amravati,1, CAT ,3.5,174000,60
+542,"Vishwa Vishwani Institute of Systems and Management, Hyderabad", Hyderabad,8, CAT ,3.5,140000,360
+543,Adithya Institute of Technology - AIET,Coimbatore,1, TANCET MBA ,3.0,35000,60
+544,RERF - Regent Education and Research Foundation, Kolkata,1, CAT ,4.2,375000,60
+545,AAM Business School, Chennai,1, CAT ,4.4,399000,40
+546,Parle Tilak Vidyalaya Association’s Institute of Management - PTVAIM, Mumbai,1, CAT ,3.9,314000,120
+547,GKV - Gurukula Kangri Vishwavidyalaya,Haridwar,3, CAT ,3.8,190000,180
+548,Central University of Jammu,Jammu,4, CAT ,4.3,18000,90
+549,"Govt. P.G. College, Una",Una,2, CAT ,5.0,60000,120
+550,"Unique Institute of Management (UIM, Pune)", Pune,1, CAT ,4.0,138000,180
+551,Whistling Woods International, Mumbai,3, WWI Entrance Exam ,4.8,650000,70
+552,Kingston Engineering College,Vellore,1, TANCET MBA ,3.0,35000,60
+553,"Sri Venkateswara College of Engineering and Technology, Chittoor",Chittoor,1, APICET ,3.0,64200,120
+554,North Eastern Regional Institute of Management,Guwahati,1, CAT ,3.7,335000,120
+555,Rajarambapu Institute of Technology,Kolhapur,2, CAT ,4.3,190000,120
+556,Smt. Radhikatai Pandav College of Engineering (SRPCE),Nagpur,1, CAT ,2.0,164000,60
+557,Mount Zion College of Engineering (MZCE Pathanamthitta),Pathanamthitta,1, CAT ,3.5,200000,60
+558,IIBM - Indian Institute of Business Management,Patna,2, CAT ,2.9,80000,45
+559,IBMR - Institute of Business Management & Research, Kolkata,1, CMAT ,4.0,370000,30
+560,"Garware Institute of Career Education and Development, University of Mumbai", Mumbai,2, Sports Management Admission Test (SMAT) ,4.5,409999,180
+561,Professor Jayashankar Telangana State Agricultural University, Hyderabad,1, ICAR AIEEA ,3.0,32000,17
+562,Guru Nanak Dev Engineering College,Ludhiana,1, CMAT ,3.0,165000,60
+563,Lords Institute of Engineering and Technology, Hyderabad,1, TSICET ,3.0,90000,120
+564,Global Institute of Management,Bhubaneswar,1, CAT ,4.0,170000,120
+565,N R Institute of Business Management (NRIBM), Ahmedabad,3, CAT ,3.7,196000,300
+566,Vaagdevi College of Engineering,Warangal,1, TSICET ,4.0,70000,300
+567,Engineering Staff College of India - School of Post Graduate Studies (ESCI SPGS), Hyderabad,3, CAT ,4.2,430000,150
+568,"Jerusalem College of Engineering, Chennai", Chennai,1, TANCET MBA ,3.0,35000,60
+569,Trinity College of Engineering and Research, Pune,1, CAT ,4.0,192000,120
+570,"Institute of Technology Management, Aligarh (ITM Aligarh)",Aligarh,1, UPCET ,5.0,119000,60
+571,East Point Group of Institutions, Bangalore,2, CAT ,1.8,400000,360
+572,"MIT Group of Institutes (Mahakal),  Ujjain",Ujjain,2, CMAT ,5.0,111000,240
+573,Teri School of Advanced Studies (TSAS), Delhi,2, CAT ,3.4,1078000,60
+574,Sree Chaitanya College of Engineering,Karimnagar,1, TSICET ,4.3,74000,120
+575,Babu Banarasi Das National Institute of Technology and Management,Lucknow,1, UPCET ,3.4,119000,120
+576,Sunstone: Noida International University [NIU],Noida,11, CAT ,4.0,305000,660
+577,"V. M. Patel Institute of Management, Ganpat University",Mehsana,1, CAT ,4.7,186000,120
+578,"Birla Institute of Technology, Mesra - Lalpur Extension Center",Ranchi,1, CAT ,4.1,518000,120
+579,Dr Virendra Swarup Institute of Computer Studies (VSICS),Kanpur,2, CAT ,4.0,119000,120
+580,Dr. Rajendra Prasad Central Agricultural University,Bihar - Other,2, ICAR AIEEA ,5.0,160000,81
+581,Management Education and Research Institute, Delhi,3, CAT ,3.4,560000,300
+582,Sherwood College of Management,Lucknow,1, UPCET ,2.7,119000,120
+583,ILAHIA College of Engineering and Technology,Kerala - Other,1, CAT ,5.0,905000,60
+584,"Institute of Health Management Research, Bangalore", Bangalore,5, CAT ,4.2,450000,420
+585,Trident Academy of Creative Technology,Bhubaneswar,1, OJEE ,3.0,196000,180
+586,HKBK College of Management, Bangalore,1, CMAT ,4.5,375000,120
+587,Siliguri Institute of Technology,Siliguri,1, MAT ,2.7,450000,60
+588,LMCST: Lourdes Matha College of Science and Technology,Thiruvananthapuram,1, CAT ,3.5,229999,60
+589,Oriental College of Management (OCM Bhopal),Bhopal,2, CMAT ,3.9,175000,300
+590,Shree H.N.Shukla Group of Colleges,Rajkot,1, CAT ,4.0,64000,120
+591,"Narayana Engineering College (NEC, Nellore)",Nellore,1, APICET ,2.7,71200,120
+592,VNS Group of Institutions,Bhopal,1, CMAT ,4.0,120000,240
+593,"IILM Academy of Higher Learning, Jaipur",Jaipur,1, CAT ,4.3,400000,60
+594,MGU Kerala - Mahatma Gandhi University,Kottayam,2, CMAT ,4.2,10500,60
+595,Baddi University of Emerging Sciences and Technology,Solan,2, CAT ,3.5,260000,60
+596,Bengal College of Engineering and Technology,Durgapur,1, MAT ,3.0,256999,30
+597,IMU Kochi,Kochi,2, IMUCET ,1.0,409999,60
+598,Ramachandra College of Engineering,West Godavari,1, APICET ,4.2,54000,180
+599,"Manipur Institute of Management Studies, Manipur University",Imphal,1, CMAT ,3.5,12000,63
+600,Indira Gandhi National Tribal University,Madhya Pradesh - Other,2, CUET-PG ,4.0,10500,60
+601,Bangalore Institute of Management Studies, Bangalore,3, CAT ,2.0,108000,180
+602,SSIM-Sri Sukhmani Institute of Management, Delhi,1, CAT ,5.0,590000,60
+603,Hi-Tech Institute of Engineering and Technology,Ghaziabad,1, UPCET ,3.5,119000,120
+604,CDAC - Centre for Development of Advanced Computing, Pune,1, IPU CET ,3.0,150000,60
+605,"Indukaka Ipcowala Institute of Management, Charotar University of Science and Technology",Anand,2, CAT ,4.0,244000,180
+606,Chameli Devi Group of Institutions,Indore,3, CMAT ,4.0,103000,300
+607,IEC College of Engineering and Technology,Greater Noida,1, CAT ,3.3,119000,60
+608,"College of Arts and Commerce, Andhra University, Visakhapatnam",Visakhapatnam,6, APICET ,3.9,20000,290
+609,DMI - Development Management Institute,Patna,1, CAT ,4.5,600000,60
+610,TIT - Technocrates Institute of Technology,Bhopal,1, CMAT ,2.5,120000,780
+611,MATS University,Raipur,1, CAT ,5.0,310000,120
+612,"Quantum School of Business (Admission Office), Quantum University",Dehradun,2, CAT ,3.5,384000,60
+613,St. Xavier’s College Bangalore,Karnataka - Other,5, CAT ,4.5,65000,450
+614,Terna Global Business School,Navi Mumbai,5, CAT ,4.0,400000,300
+615,"Zeal Institute Of Business Administration, Computer Application and Research", Pune,1, CAT ,4.5,162000,120
+616,Mount Carmel College, Bangalore,4, Karnataka PGCET ,3.7,90300,60
+617,Dr. Yashwant Singh Parmar University of Horticulture and Forestry,Himachal Pradesh - Other,2, CMAT ,3.1,18000,11
+618,Central University of Kashmir,Srinagar,1, CMAT ,3.6,26500,30
+619,Sree Narayana Gurukulam College Of Engineering - SNGCE,Ernakulum,1, CMAT ,4.5,322000,120
+620,Nalla Narasimha Reddy Education Society’s Group of Institutions,Ghatkesar,1, TSICET ,3.6,80000,60
+621,Sanketika Vidya Parishad Engineering College,Visakhapatnam,1, APICET ,2.9,70000,180
+622,MVR College of Engineering and Technology,Andhra Pradesh - Other,1, APICET ,3.6,54000,90
+623,"OPJU - OP Jindal University, Raigarh",Chhattisgarh - Other,1, CAT ,4.5,366000,60
+624,NTPC School of Business,Noida,2, CAT ,4.3,1600000,60
+625,ABIT - Ajay Binay Institute of Technology,Cuttack,1, OJEE ,3.5,150000,60
+626,Nehru Institute of Engineering and Technology,Coimbatore,1, TANCET MBA ,5.0,35000,60
+627,Conspi Academy of Management Studies,Thiruvananthapuram,1, CAT ,5.0,260000,60
+628,"Bundelkhand University, Jhansi",Uttar Pradesh - Other,8, UPCET ,4.0,10600,365
+629,DRK College of Engineering and Technology, Hyderabad,1, TSICET ,2.0,80000,60
+630,KKR and KSR Institute of Technology and Sciences (KITS Guntur),Guntur,1, APICET ,3.0,58600,120
+631,Bangalore University, Bangalore,1, Karnataka PGCET ,3.4,56000,180
+632,Malla Reddy Engineering College And Management Sciences, Hyderabad,1, TSICET ,4.5,74000,180
+633,Bapuji MBA College - BIET MBA,Davangere,1, Karnataka PGCET ,3.5,117000,60
+634,Vizag Institute of Technology (VIT Visakhapatnam),Visakhapatnam,1, APICET ,2.0,62800,60
+635,Pramod Ram Ujagar Tiwari Saket Institute Of Management, Mumbai,1, CAT ,3.0,160000,120
+636,RIMS - Rourkela Institute of Management Studies,Rourkela,2, CAT ,3.7,190000,210
+637,Samskruti College of Engineering and Technology,Ranga Reddy,1, TSICET ,3.4,80000,120
+638,Kalasalingam Academy of Research and Education,Virudhunagar,2, CAT ,3.6,140000,138
+639,University of Lucknow,Lucknow,10, CAT ,3.5,20000,540
+640,BMIM - Bharata Mata Institute of Management,Kochi,1, CMAT ,4.4,280000,60
+641,"BIMT, Gurgaon",Gurgaon,1, CAT ,4.0,325000,120
+642,TimesPro - Bennett University,Greater Noida,2, CAT ,4.0,545000,240
+643,Adhiparasakthi Engineering College,Kanchipuram,1, TANCET MBA ,2.0,35000,60
+644,National Power Training Institute,Faridabad,1, CAT ,3.6,505000,120
+645,Mar Athanasios College For Advanced Studies - MACFAST,Pathanamthitta,1, CAT ,4.2,340000,120
+646,M.I.E.T. Engineering College,Tiruchirappalli,1, TANCET MBA ,4.3,35000,60
+647,Chintamanrao Institute of Management Development and Research (CIMDR Maharashtra),Sangli,1, CAT ,5.0,210000,60
+648,Inmantec Institutions,Ghaziabad,1, CAT ,3.5,213000,120
+649,St. Mary's Group of Institutions, Hyderabad,6, TSICET ,4.0,54000,780
+650,Modern Institute of Technology and Research Centre (MITRC),Alwar,1, CAT ,4.0,88000,60
+651,Netaji Subhash Engineering College, Kolkata,1, MAT ,3.0,517000,30
+652,"Birla Institute of Technology, Mesra - Noida Extension Center",Noida,1, CAT ,4.4,518000,30
+653,Marwadi Education Foundation's Group of Institutions (MEFGI),Rajkot,1, CAT ,4.0,160000,240
+654,Mahatma Phule Institute of Management and Computer Studies, Pune,1, CAT ,3.0,220000,120
+655,Rajendra Mane College of Engineering and Technology (RMCET),Ratnagiri,2, CAT ,4.4,80000,120
+656,Sphoorthy Engineering College, Hyderabad,1, TSICET ,3.3,100000,60
+657,RIT - Rajeev Institute of Technology,Hassan,1, Karnataka PGCET ,1.0,117000,60
+658,Sona College of Technology,Salem,1, TANCET MBA ,3.8,35000,180
+659,SEC - Seacom Engineering College,Howrah,1, CAT ,2.0,200000,60
+660,SVCE - Sri Venkateshwara College of Engineering, Bangalore,1, Karnataka PGCET ,5.0,117000,60
+661,CARE Business School,Tiruchirappalli,1, CAT ,2.5,35000,60
+662,"Annamacharya Institute of Technology and Sciences,Rajampet",Kadapa,2, APICET ,3.0,54000,300
+663,"Institute of Management and Rural Development Administration, Bharati Vidyapeeth",Sangli,1, BMAT ,4.2,150000,60
+664,Tumkur University,Tumkur,2, Karnataka PGCET ,4.0,96600,60
+665,SIMS - Sanghvi Institute of Management and Science,Indore,2, CAT ,2.4,130000,540
+666,Jankidevi Bajaj Institute of Management Studies - JDBIMS, Mumbai,7, CAT ,2.6,170000,320
+667,Uma Krishna Shetty Institute of Management Studies and Research, Mumbai,1, CAT ,4.3,550000,60
+668,Vignan's Nirula Institute of Technology and Science for Women,Guntur,1, APICET ,2.0,54000,120
+669,Rayat Bahra University,Mohali,13, CAT ,2.8,65000,510
+670,"Xavier School of Human Settlements, Xavier University Bhubaneswar",Bhubaneswar,1, CAT ,3.0,1220000,40
+671,"St. George College of Management, Science and Nursing", Bangalore,1, Karnataka PGCET ,1.0,117000,120
+672,TimesPro, Mumbai,5, CAT ,5.0,659000,120
+673,Krantiguru Shyamji Krishna Verma Kachchh University,Bhuj,2, CAT ,4.0,75000,45
+674,Assam Institute of Management(AIM- Assam),Guwahati,2, CAT ,4.5,247000,140
+675,Sri Sankara Arts and Science College (SSASC),Kanchipuram,1, TANCET ,4.5,93200,60
+676,Annamalai University,Tamil Nadu - Other,13, TANCET MBA ,4.6,35000,540
+677,Nishitha Degree College,Nizamabad,1, TSICET ,4.7,80000,180
+678,Visakha Institute of Engineering and Technology,Visakhapatnam,1, APICET ,3.7,58400,180
+679,Guru Nanak Institute of Engineering and Technology,Nagpur,1, CAT ,3.7,180000,60
+680,Pioneer Institute of Professional Studies,Indore,2, CAT ,4.8,110000,300
+681,DMI College of Engineering, Chennai,1, TANCET MBA ,1.7,35000,60
+682,Babu Banarasi Das Northern India Institute of Technology (BBDNIIT),Lucknow,1, UPCET ,3.0,119000,60
+683,Sushila Devi Bansal College of Engineering,Indore,1, CMAT ,2.0,77200,60
+684,"Institute of Technology and Management, Gorakhpur",Gorakhpur,1, UPCET ,4.5,132000,60
+685,Arya College Jaipur,Jaipur,5, CAT ,4.0,115999,60
+686,Pune District Education Association's College of Engineering, Pune,1, CAT ,2.0,196000,120
+687,Meghnad Saha Institute of Technology, Kolkata,2, CAT ,3.7,517000,90
+688,Kashmir University,Srinagar,4, CMAT ,2.9,11600,184
+689,Himalayan School of Management Studies,Dehradun,1, CAT ,4.0,261000,90
+690,I.K Gujral Punjab Technical University (PTU),Punjab - Other,4, CMAT ,3.8,60000,100
+691,Holy Mary Institute of Technology & Science,Hyderabad,1, TSICET ,2.5,120000,60
+692,EMPI Business School, Delhi,5, CAT ,4.0,775000,240
+693,Indian Institute of Tourism and Travel Management (Gwalior),Gwalior,3, CAT ,3.8,186000,249
+694,CSI Institute of PG Studies,Secunderabad,1, TSICET ,2.6,80000,360
+695,Omega PG College, Hyderabad,1, TSICET ,3.5,64000,180
+696,Arihant Institute of Management and Technology,Indore,3, CMAT ,5.0,103000,300
+697,Angadi Institute of Technology and Management,Belgaum,1, Karnataka PGCET ,3.0,117000,60
+698,Swami Vivekananda Institute of Technology,Secunderabad,3, TSICET ,3.0,84000,420
+699,Anwar-Ul-Uloom College Of Business Management,Hyderabad,1, TSICET ,3.0,110000,300
+700,Mahaveer Institute Of Science and Technology,Hyderabad,1, TSICET ,4.0,80000,60
+701,College of Engineering Trivandrum,Thiruvananthapuram,1, CAT ,4.2,105000,120
+702,Jagran Institute of Management,Kanpur,2, CAT ,3.7,219000,120
+703,KVG College of Engineering,Sullia,1, Karnataka PGCET ,1.0,117000,60
+704,"Institute of Co-operative and Corporate Management, Research and Training",Lucknow,1, UPCET ,4.0,167000,180
+705,JVIT - Jnana Vikas Institute of Technology, Bangalore,1, Karnataka PGCET ,4.0,117000,60
+706,Aravali College of Engineering and Management,Faridabad,1, CAT ,3.3,197000,120
+707,Sinhgad Institutes - Sinhgad Management Institutes, Mumbai,1, CAT ,3.0,274000,120
+708,Indian Institute of Tourism and Travel Management,Bhubaneswar,2, CAT ,3.3,186000,186
+709,Radharaman Engineering College,Bhopal,1, CMAT ,4.5,74600,180
+710,Kalyani Charitable Trust's K.R.Sapkal College of Management Studies,Nashik,1, CAT ,3.0,212000,120
+711,"JNTUA College of Engineering, Ananthapuramu",Anantapur,3, APICET ,3.3,54000,120
+712,"Khwaja Moinuddin Chishti Urdu, Arabi-Farsi University",Lucknow,1, CAT ,4.6,80500,60
+713,"Srinivas Institute of Technology, Srinivas Group of Colleges",Mangalore,1, Karnataka PGCET ,4.4,117000,120
+714,Bhilai Institute of Technology,Chhattisgarh - Other,1, CAT ,4.0,143000,120
+715,"College of IT and Management Education, Biju Patnaik University of Technology",Bhubaneswar,1, CAT ,3.4,186000,180
+716,Mangalam College of Engineering - MCE,Kottayam,1, CAT ,4.1,270000,180
+717,"MIT Group of Institutions, Moradabad",Moradabad,1, CAT ,4.0,214000,30
+718,"Bhagwan Mahavir College of Management, Bhagwan Mahavir University",Surat,2, CAT ,3.0,152000,240
+719,KIMDS - Kejriwal Institute of Management and Development Studies,Ranchi,1, CAT ,5.0,470000,60
+720,Shri Vaishnav Vidyapeeth Vishwavidyalaya,Indore,18, CAT ,4.0,149000,240
+721,Aditya Group of Institutions, Bangalore,1, Karnataka PGCET ,3.0,117000,120
+722,S.R.K. Institute Of Technology,Vijayawada,2, APICET ,2.8,82000,120
+723,Sindhi Institute of Management - SIM, Bangalore,2, CAT ,4.0,117000,120
+724,HMR Institute of Technology and Management,Delhi - Other,1, CAT ,2.8,218000,30
+725,RITEE Group of Institutes,Raipur,2, CAT ,4.4,125000,180
+726,Easa College of Engineering and Technology - EASA College Coimbatore,Coimbatore,1, TANCET MBA ,4.2,35000,60
+727,KCE Society's Institute of Management and Research (IMR Jalgon),Jalgaon,3, CAT ,3.4,130000,270
+728,Indraprasth Institute of Management,Gurgaon,1, CAT ,5.0,593000,60
+729,"Avanthi Institute Of Engineering And Technology, Hayathnagar",Telangana-Other,1, TSICET ,4.0,70000,180
+730,Deviprasad Goenka Management College of Media Studies, Mumbai,1, CAT ,2.0,645000,60
+731,Sinhgad Institute of Business Management, Mumbai,1, CAT ,3.7,274000,120
+732,BABA Institute of Technology and Sciences,Visakhapatnam,1, APICET ,3.5,54000,180
+733,St. Pious X Degree and PG College for Women,Telangana-Other,1, TSICET ,2.5,80000,120
+734,"Godavari Institute Of Management & Research, Jalgaon",Jalgaon,1, CAT ,3.9,120000,120
+735,"Dr. Moonje Institute of Management and Computer Studies,Nashik",Nashik,1, CAT ,2.0,156000,120
+736,V.M. Patel Institute of Management,Gujarat - Other,1, CAT ,4.5,152000,120
+737,Uttam Group of Institutions,Agra,3, UPCET ,4.3,119000,300
+738,"IILM University, Greater Noida",Greater Noida,7, CAT ,3.8,400000,240
+739,Rustomjee Business School, Mumbai,2, CAT ,2.7,236000,120
+740,Siddharth Institute of Engineering and Technology (SIETK),Andhra Pradesh - Other,1, APICET ,3.2,54400,120
+741,Vemu Institute of Technology,Chittoor,1, APICET ,3.4,61000,120
+742,Pailan College of Management and Technology - PCMT, Kolkata,1, MAT ,3.5,361000,30
